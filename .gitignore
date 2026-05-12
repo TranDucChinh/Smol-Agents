@@ -1,0 +1,9 @@
+# Secrets - KHÔNG bao giờ push lên GitHub
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
